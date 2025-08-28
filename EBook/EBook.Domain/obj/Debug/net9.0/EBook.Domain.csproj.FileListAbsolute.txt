@@ -1,0 +1,12 @@
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\bin\Debug\net9.0\EBook.Domain.deps.json
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\bin\Debug\net9.0\EBook.Domain.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\bin\Debug\net9.0\EBook.Domain.pdb
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.AssemblyInfo.cs
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\refint\EBook.Domain.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\EBook.Domain.pdb
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Domain\obj\Debug\net9.0\ref\EBook.Domain.dll

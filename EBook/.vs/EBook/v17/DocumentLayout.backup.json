@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murad\\Desktop\\EBook\\EBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E82F5B-631D-4060-8C8E-85AA47559537}|EBook\\EBook.API.csproj|c:\\users\\murad\\desktop\\ebook\\ebook\\ebook\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54E82F5B-631D-4060-8C8E-85AA47559537}|EBook\\EBook.API.csproj|solutionrelative:ebook\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\EBook\\EBook\\EBook\\docker-compose.yml",
+              "RelativeDocumentMoniker": "EBook\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\EBook\\EBook\\EBook\\docker-compose.yml",
+              "RelativeToolTip": "EBook\\docker-compose.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-27T20:31:44.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

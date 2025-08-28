@@ -1,0 +1,15 @@
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\bin\Debug\net9.0\EBook.Application.deps.json
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\bin\Debug\net9.0\EBook.Application.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\bin\Debug\net9.0\EBook.Application.pdb
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.AssemblyInfo.cs
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\refint\EBook.Application.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.pdb
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\ref\EBook.Application.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\bin\Debug\net9.0\EBook.Domain.dll
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\bin\Debug\net9.0\EBook.Domain.pdb
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Application.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\EBook\EBook\EBook.Application\obj\Debug\net9.0\EBook.Ap.6F4631A4.Up2Date

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMH+0Lcz2QA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murad\\Desktop\\EBook\\EBook\\EBook.Domain\\EBook.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\mongodb.bson\\3.4.3\\mongodb.bson.3.4.3.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
